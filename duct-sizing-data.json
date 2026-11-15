@@ -1,0 +1,22 @@
+{
+  "method": "Area = CFM / velocity (FPM). Round diameter from area. Rectangular sizes use the equal-area diameter; the Huebscher equivalent diameter De = 1.30 (a b)^0.625 / (a + b)^0.25 is shown for friction comparison.",
+  "typical_design_velocities_fpm": {
+    "residential_main_trunk": [
+      700,
+      900
+    ],
+    "commercial_main": [
+      1000,
+      1300
+    ],
+    "commercial_branch": [
+      600,
+      900
+    ],
+    "restaurant_kitchen_exhaust_main": [
+      1500,
+      2500
+    ],
+    "note": "Kitchen exhaust ducts are kept fast enough to carry grease; noise limits govern supply ducts in occupied rooms."
+  }
+}
